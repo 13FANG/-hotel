@@ -1,0 +1,110 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Курс 4\\Практика\\Учебная\\октябрь\\4\\ШахГостинница\\ШАХTestProject\\ШАХTestProject.csproj": {}
+  },
+  "projects": {
+    "E:\\Курс 4\\Практика\\Учебная\\октябрь\\4\\ШахГостинница\\ШАХTestProject\\ШАХTestProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Курс 4\\Практика\\Учебная\\октябрь\\4\\ШахГостинница\\ШАХTestProject\\ШАХTestProject.csproj",
+        "projectName": "ШАХTestProject",
+        "projectPath": "E:\\Курс 4\\Практика\\Учебная\\октябрь\\4\\ШахГостинница\\ШАХTestProject\\ШАХTestProject.csproj",
+        "packagesPath": "C:\\Users\\429198-21\\.nuget\\packages\\",
+        "outputPath": "E:\\Курс 4\\Практика\\Учебная\\октябрь\\4\\ШахГостинница\\ШАХTestProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\429198-21\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Курс 4\\Практика\\Учебная\\октябрь\\4\\ШахГостинница\\ШахГостинница\\ШахГостинница.csproj": {
+                "projectPath": "E:\\Курс 4\\Практика\\Учебная\\октябрь\\4\\ШахГостинница\\ШахГостинница\\ШахГостинница.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Курс 4\\Практика\\Учебная\\октябрь\\4\\ШахГостинница\\ШахГостинница\\ШахГостинница.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Курс 4\\Практика\\Учебная\\октябрь\\4\\ШахГостинница\\ШахГостинница\\ШахГостинница.csproj",
+        "projectName": "ШахГостинница",
+        "projectPath": "E:\\Курс 4\\Практика\\Учебная\\октябрь\\4\\ШахГостинница\\ШахГостинница\\ШахГостинница.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

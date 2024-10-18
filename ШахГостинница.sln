@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ШахГостинница", "ШахГостинница\ШахГостинница.csproj", "{49A283E1-7FA3-4FDB-8383-829062C9A218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestШАХ", "UnitTestШАХ\UnitTestШАХ.csproj", "{6A05A0CB-04DE-4FFE-9DD5-B72BED112917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A283E1-7FA3-4FDB-8383-829062C9A218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A283E1-7FA3-4FDB-8383-829062C9A218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A283E1-7FA3-4FDB-8383-829062C9A218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A283E1-7FA3-4FDB-8383-829062C9A218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A05A0CB-04DE-4FFE-9DD5-B72BED112917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A05A0CB-04DE-4FFE-9DD5-B72BED112917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A05A0CB-04DE-4FFE-9DD5-B72BED112917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A05A0CB-04DE-4FFE-9DD5-B72BED112917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D22BFFF-74C6-40A2-8357-3F731DB398FE}
+	EndGlobalSection
+EndGlobal
